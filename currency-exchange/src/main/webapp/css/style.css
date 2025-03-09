@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+   background-color: #39203b;
+    
+}
+
+h1 {
+    color: white;
+}
+
+
+
+
+
+
+form {
+    background: white;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    
+}
+
+select, input {
+    padding: 10px;
+    font-size: 16px;
+    margin: 5px;
+    
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+
+
+
+.credit {
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #ccc;
+}
+
+.credit a {
+    color: #ffcc00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.credit a:hover {
+    color: #fff;
+}
+
+/* Heart Animation */
+.pulse {
+    color: red;
+    animation: pulse 1.5s infinite;
+}
