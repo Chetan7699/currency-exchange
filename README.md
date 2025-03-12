@@ -13,7 +13,7 @@ Java | Servlets | JSP | HTML | CSS  | API Integration | Tomcat
 
 🚀 Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/Chetan7699/currency-converter.git
+git clone https://github.com/Chetan7699/currency-exchange.git
 2️⃣ Import the project into Eclipse (Dynamic Web Project).
 3️⃣ Run on Tomcat Server and start converting currencies!
 
@@ -32,7 +32,7 @@ git clone https://github.com/Chetan7699/currency-converter.git
 This project fetches exchange rates from ExchangeRate-API.
 
 📌  Repository
-🖥 GitHub Repo: github.com/Chetan7699/currency-converter
+🖥 GitHub Repo: github.com/Chetan7699/currency-exchange
 
 
 📜 License
